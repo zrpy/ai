@@ -1,6 +1,6 @@
 # Free ChatGPT
 Original : https://github.com/Niek/chatgpt-web<br>
-Try on here : https://voids.top/ai
+Try on here : http://chat.zrpy.f5.si
 
 ## Supported models
 GPT-3.5-Turbo<br>
